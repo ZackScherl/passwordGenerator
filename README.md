@@ -15,3 +15,5 @@ https://github.com/ZackScherl/passwordGenerator
 
 Live site link:
 https://zackscherl.github.io/passwordGenerator/
+
+![Password Generator Live](https://github.com/ZackScherl/passwordGenerator/assets/141593319/c0f9d9d3-efa6-449e-bda6-4437b1807f31)
