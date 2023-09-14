@@ -9,3 +9,9 @@ Michell Brito provided tutoring advice as I became stuck on getting my password 
 understand the use of .push(...)
 
 I also will make sure to add more commits in between steps. I created submodules and had to clone my code to escape that conflict.
+
+Github link:
+https://github.com/ZackScherl/passwordGenerator
+
+Live site link:
+https://zackscherl.github.io/passwordGenerator/
