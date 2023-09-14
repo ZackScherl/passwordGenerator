@@ -49,6 +49,7 @@ function generatePassword() {
   }
 
   return password
+  
 }
 
 // generate password
